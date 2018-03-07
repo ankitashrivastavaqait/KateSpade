@@ -18,3 +18,6 @@ KateSpade: https://5thandpacific.atlassian.net/wiki/spaces/EcomIT/pages
 Caoach git link:
 https://abagga@stash.coach.com/scm/auto/automation.git
 
+Git Link:
+https://github.com/ankitashrivastavaqait/KateSpade.git
+
