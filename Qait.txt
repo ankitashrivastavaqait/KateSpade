@@ -1,0 +1,22 @@
+“Requirements:
+https://5thandpacific.atlassian.net/wiki/spaces/EcomIT/pages/98402322/RR+-+ph.1+REQS
+
+Functional Testing:
+https://5thandpacific.atlassian.net/wiki/spaces/EcomIT/pages/109120965/RR+-+ph.1+Quality+Assurance+Activity
+
+End to End Testing:
+https://5thandpacific.atlassian.net/wiki/spaces/EcomIT/pages/109120408/RR+-+ph.1+End+To+End+Test+Activity
+
+Cases In Jira:
+https://5thandpacific.atlassian.net/issues/?jql=project%20%3D%20RR%20AND%20issuetype%20%3D%20Task%20AND%20Sprint%20in%20(135%2C%20136%2C%20137%2C%20138)%20ORDER%20BY%20key%20ASC%2C%20priority%20DESC%2C%20updated%20DESC”
+Kamal 05-02-2018 16:12
+
+Confluence page:
+UK: https://confluence.coach.com/pages/viewpage.action?title=Test+Data+KateSpade%3A+Production+%3A+US&spaceKey=DWRE
+KateSpade: https://5thandpacific.atlassian.net/wiki/spaces/EcomIT/pages
+
+Caoach git link:
+https://abagga@stash.coach.com/scm/auto/automation.git
+
+get testoutput mail:
+C:\Users\ankitashrivastava\Desktop\Coach_QAIT\automation\test-output -emailable-report
