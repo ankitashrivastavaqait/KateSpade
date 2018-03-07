@@ -18,5 +18,3 @@ KateSpade: https://5thandpacific.atlassian.net/wiki/spaces/EcomIT/pages
 Caoach git link:
 https://abagga@stash.coach.com/scm/auto/automation.git
 
-get testoutput mail:
-C:\Users\ankitashrivastava\Desktop\Coach_QAIT\automation\test-output -emailable-report
